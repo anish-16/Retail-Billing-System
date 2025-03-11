@@ -1,0 +1,7 @@
+101 Apple 1.50 50
+102 Banana 0.80 30
+103 Orange 1.20 40
+104 Mango 2.50 25
+105 Grapes 3.00 20
+106 Pears 4 32
+107 guavava 402 32
