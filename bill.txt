@@ -1,6 +1,4 @@
-🧾 Retail Store Bill
-ID        Name                 Price     Qty       Total     
-101       Apple                1.50      2         3.00      
-103       Orange               1.20      3         3.60      
+Retail Store Bill
+ID        Name                Price     Qty       Total     
 
-💰 Grand Total: 6.60
+Grand Total: 0
