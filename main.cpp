@@ -31,7 +31,6 @@ void addProduct() {
     cin >> p.price;
     cout << "Enter Quantity: ";
     cin >> p.quantity;
-    
     file << p.id << " " << p.name << " " << p.price << " " << p.quantity << endl;
     file.close();
     
